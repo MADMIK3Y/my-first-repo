@@ -1,1 +1,2 @@
 Hello, Git
+Hey Nova, I was thinking we could make something like free code camp does where you give me tasks to try to help me learn git and other things. maybe telling me to add or edit files. As an electrician I gained much more confidence in knowing what NOT to touch. So maybe focus on things like Error Correction so I can learn how to fix something if I mess up. This in turn might teach me how to NOT make mistakes. Let me know what you think, if you have any suggestions
